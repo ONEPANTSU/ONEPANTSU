@@ -13,8 +13,9 @@
 
 - :zap: Хочу лучше освоить проффесию и найти работу.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/onepantsu)
-- :octocat: Моё резюме: [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1mzlUJnriR4Iwiyvd5X46lINZakeurrrT/view?usp=sharing)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/onepantsu) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:conandet@mail.ru)
+
+- :octocat: Моё резюме: [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1mzlUJnriR4Iwiyvd5X46lINZakeurrrT/view?usp=sharing)
 ---
 
 ### 🤝 Социальные сети:
