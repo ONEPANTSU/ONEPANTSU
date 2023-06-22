@@ -7,7 +7,7 @@
 
 Я начинающий бэкенд-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с Arduino и IT Школы SAMSUNG, где мы изучали Android Studio. Спустя время я успел попробовать себя во многих направлениях, пробовал изучать язык C++, Java, Python, а также попробовал свои силы в Unity (C#).
 
-- :telescope: Изучаю разработку на Python!
+- :telescope: Изучаю разработку на Python (Backend, Machine Learning)!
 
 - :seedling: Обязательно попаду на основное обучение в Яндекс и/или Tinkoff образование.
 
@@ -64,3 +64,5 @@
     </td>
   </tr>
 </table>
+
+![SoftBannas inc.](https://github.com/ONEPANTSU/ONEPANTSU/blob/main/sbi_logo.svg)
