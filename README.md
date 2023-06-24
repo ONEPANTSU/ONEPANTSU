@@ -1,24 +1,26 @@
 
-# Привет, меня зовут Иван!
+# Hey there, my name is Ivan!
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me
 
-Я начинающий бэкенд-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с Arduino и IT Школы SAMSUNG, где мы изучали Android Studio. Спустя время я успел попробовать себя во многих направлениях, пробовал изучать язык C++, Java, Python, а также попробовал свои силы в Unity (C#).
+I'm a Python developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> who started my tech journey with Arduino and Samsung IT School. Since diving into Android Studio, I have explored various fields such as Python, C++, Java, and Unity (C#).
 
-- :telescope: Изучаю разработку на Python (Backend, Machine Learning)!
+- :telescope: Currently, I'm honing my backend development skills with a focus on mastering FastAPI. Additionally, I'm passionate about ML and developing my expertise in that area.
 
-- :seedling: Обязательно попаду на основное обучение в Яндекс и/или Tinkoff образование.
+- :banana: Leading the SoftBananas Inc. team of developers has been an exhilarating experience. We have successfully executed various freelance projects with dedication and diligence.
 
-- :zap: Хочу лучше освоить проффесию и найти работу.
+- :seedling: I'm actively on the lookout for a fulfilling role within the backend development sphere to further expand my skillset and positively impact the industry.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-onepantsu-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/onepantsu) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:conandet@mail.ru)
+- :zap: My ultimate goal is to continue improving my skills in software engineering and to become an integral member of the tech community.
 
-- :octocat: Моё резюме: [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1mzlUJnriR4Iwiyvd5X46lINZakeurrrT/view?usp=sharing)
+- :mailbox: To connect with me, reach me on [![Telegram Badge](https://img.shields.io/badge/-onepantsu-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/onepantsu) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:conandet@mail.ru)
+
+- :octocat: Check out my resume: [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1mzlUJnriR4Iwiyvd5X46lINZakeurrrT/view?usp=sharing)
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social Networks:
 
   <div id="badges">
     <a href="https://t.me/onepantsu" target="_blank">
@@ -31,7 +33,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -58,7 +60,7 @@
 
 ---
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
