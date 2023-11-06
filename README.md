@@ -73,4 +73,4 @@ I'm a Python developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   </tr>
 </table>
 
-![SoftBannas inc.](https://github.com/ONEPANTSU/ONEPANTSU/blob/main/sbi_logo.svg)
+[![SoftBannas inc.](https://github.com/ONEPANTSU/ONEPANTSU/blob/main/sbi_logo.svg)](https://github.com/SoftBananas)
