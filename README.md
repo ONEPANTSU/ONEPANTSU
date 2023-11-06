@@ -1,6 +1,5 @@
 
 # Hey there, my name is Ivan!
-
 ---
 
 ### :man_technologist: About me
@@ -9,7 +8,7 @@ I'm a Python developer <img src="https://media.tenor.com/liFJWwwNPM8AAAAi/desser
 
 - :telescope: Currently, I'm honing my Back-end Development skills with a focus on mastering FastAPI. Additionally, I'm passionate about ML and developing my expertise in that area.
 
-- :banana: Leading the SoftBananas Inc. team of developers has been an exhilarating experience. We have successfully executed various freelance projects with dedication and diligence.
+- :banana: Leading the [SoftBananas Inc.](https://github.com/SoftBananas) team of developers has been an exhilarating experience. We have successfully executed various freelance projects with dedication and diligence.
 
 - :seedling: I'm actively on the lookout for a fulfilling role within the backend development sphere to further expand my skillset and positively impact the industry.
 
