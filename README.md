@@ -4,7 +4,7 @@
 
 ### :man_technologist: About me
 
-I'm a Python developer <img src="https://media.tenor.com/liFJWwwNPM8AAAAi/dessert-battlefield.gif" width="25px"> who started my tech journey with Arduino and Android Studio in Samsung IT School. Since diving into that, I have explored various fields such as Python, C++, Java, and Unity (C#). Now I'm intrested in Back-end Development (I prefer FastAPI) and ML engineering.
+I'm a Python developer <img src="https://media.tenor.com/liFJWwwNPM8AAAAi/dessert-battlefield.gif" width="25px"> who started my tech journey with Arduino and Android Studio in Samsung IT School. Since diving into that, I have explored various fields such as Python, C++, Java, and Unity (C#). Now I'm intrested in Back-end Development (I prefer FastAPI) and ML engineering (with Keras).
 
 - :telescope: Currently, I'm honing my Back-end Development skills with a focus on mastering FastAPI. Additionally, I'm passionate about ML and developing my expertise in that area.
 
@@ -16,7 +16,7 @@ I'm a Python developer <img src="https://media.tenor.com/liFJWwwNPM8AAAAi/desser
 
 - :mailbox: To connect with me, reach me on [![Telegram Badge](https://img.shields.io/badge/-onepantsu-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/onepantsu) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:conandet@mail.ru)
 
-- :octocat: Check out my resume: [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1mzlUJnriR4Iwiyvd5X46lINZakeurrrT/view?usp=sharing)
+- :octocat: Check out my resume: [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1leVZ5m47Q0KhUVVngJLEMDTkaPXkwaOy/view?usp=sharing)
 ---
 
 ### 🤝 Social Networks:
@@ -37,9 +37,9 @@ I'm a Python developer <img src="https://media.tenor.com/liFJWwwNPM8AAAAi/desser
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp
+  <!--  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fastapi" alt="fastapi" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/> 
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/> --> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/> 
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv" alt="opencv" width="40" height="40"/>&nbsp -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp -->
@@ -51,8 +51,8 @@ I'm a Python developer <img src="https://media.tenor.com/liFJWwwNPM8AAAAi/desser
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="c#" alt="c#" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring" width="40" height="40"/>&nbsp
+<!--  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp -->
+<!--  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring" alt="spring" width="40" height="40"/>&nbsp -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="android studio" alt="android studio" width="40" height="40"/>&nbsp -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="rstudio" alt="rstudio" width="40" height="40"/>&nbsp; -->
 </div>
