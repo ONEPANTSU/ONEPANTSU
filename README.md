@@ -1,6 +1,5 @@
 
 # Hey there, my name is Ivan!
----
 
 ### :man_technologist: About me
 
