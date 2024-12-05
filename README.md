@@ -127,6 +127,3 @@ class ONEPANTSU:
   <a href="https://www.linkedin.com/in/onepantsu/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
   </div>
 
----
-
-[![SoftBannas inc.](https://github.com/ONEPANTSU/ONEPANTSU/blob/main/sbi_logo.svg)](https://github.com/SoftBananas)
