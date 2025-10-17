@@ -33,9 +33,9 @@ class ONEPANTSU:
     name: str = "Vnukov Ivan"
     city: str = "St. Petersburg"
     languages: list[str] = ["English", "Russian", "Japanese"]
-    job: str = "Python Backend Developer"
+    job: str = "Python/Go Backend Developer"
     interests: list[str] = ["AI", "problem-solving", "languages"]
-    education: str = 'SPbSUT',
+    education: str = 'ITMO',
     birthday: datetime = datetime(2002, 12, 12)
 ```
 
