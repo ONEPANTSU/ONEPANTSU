@@ -109,13 +109,6 @@ class ONEPANTSU:
   </blockquote>
 </details>
 
-<details>
-  <summary>Github statistics</summary>
-  <br>
-<div align="center">
-      <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ONEPANTSU&theme=dark&background=000000" alt="Github stats" />
-</div>
-</details>
 
 </details>
 
